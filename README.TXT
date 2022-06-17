@@ -1,12 +1,17 @@
 ----------------------------------------------------------------
 
-    Title_Format[ YOUTUBE ]:
+    Title_Format[ YOUTUBE ]( No Leading Zeros @DFTNIP@ )
 
-        MMO From Scratch ( Atomic Ivy MMO ( AIM ) ) #___
+        BOMB GAME TUTORIAL - PART __________________
 
     Title_Format[  IMGUR  ]:
 
         Atomic Ivy MMO - Resources - Tutorial #___
+
+
+
+    Old youtube format :
+    [   MMO From Scratch ( Atomic Ivy MMO ( AIM ) ) #___ ]
 
 ----------------------------------------------------------------
 
@@ -84,33 +89,62 @@
 
             : https://youtu.be/KTUdz_fYmKw 
 
-================================================================
-
-    AIM_011 : ( www.tinyurl.com/FALLING-FIRE )
+    AIM_011 : ( www.tinyurl.com/FALLING-FIRE )        2022_08_03
 
             : Upload File To Github ( TRY )
 
-================================================================
+            : https://youtu.be/_UdyaGV0o9k 
+            : https://imgur.com/UaHKO4y
 
-    AIM_012 : ( www.tinyurl.com/FIRE-GATE )
+    AIM_012 : ( www.tinyurl.com/FIRE-GATE )           2022_08_04
+
+            : Add a collaberator to your github repo
+
+            : https://youtu.be/qtwgID5EzQM 
+            : https://imgur.com/ntJ9qXe
+
+//: - - - - - - - - - - - - - ---- - - - - - - - - - - - - - ://
+
+    AIM_013 : ( www.tinyurl.com/GATE-GRID )           2022_08_05
+
+            : SSH Keys Explained With Drugs
+
+            : https://youtu.be/MUFZPoysKSw 
+            : https://imgur.com/a/ntCG9YQ <<<< TODO : Add url to playlist
+
+    CMC_001 : ( Remake of AIM_013 As Advertisment For MMO )
+            : VIDEO     : https://youtu.be/rFcznUafyRA  
+            :           : https://youtu.be/0SDPnLTr83I 
+            :           : https://youtu.be/0SDPnLTr83I 
+
+            : TINYURL   :
+            : RELASE ON : 2022_07_24
+            : TIME      : 11:30 AM ( 15 min before others )
+
+            : Encryption Explained With Drug Trafficking
+
+            : PLAYLIST : 
+            : https://www.youtube.com/playlist?list=PL_0ywSR4_rsWjutTX6YKZmUrrT6DwZa01
+
+//: - - - - - - - - - - - - - ---- - - - - - - - - - - - - - ://
+
+    AIM_014 : ( www.tinyurl.com/GRID-HEAVEN )         2022_08_06
 
             : Troubleshoot SSH Keys 
+            : https://youtu.be/32nCWzAHCtw
 
-    AIM_013 : ( www.tinyurl.com/GATE-GRID )
-
-            : Upload File To Github ( FOR REAL )
-
-    AIM_014 : ( www.tinyurl.com/GRID-HEAVEN )
+    AIM_015 : ( www.tinyurl.com/HEAVEN-HOG ) 2022_08_07
 
             : Empty Heroku Application
+            : https://youtu.be/2XOQSV4k6h0 
 
-    AIM_015 : ( www.tinyurl.com/HEAVEN-HOG )
-
-            : Hype Train Intermission
+================================================================
 
     AIM_016 : ( www.tinyurl.com/HOG-ION )
 
             : Hello Server
+
+================================================================
 
     AIM_017 : ( www.tinyurl.com/ )
 
@@ -162,3 +196,5 @@
     ## ## . Hello PNG                                         ##
                                                               ##
     ############################################################
+
+    @DFTNIP@ : Deviation_From_The_Norm_Is_Punished
