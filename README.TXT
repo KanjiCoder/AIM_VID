@@ -1,3 +1,8 @@
+
+
+    YOUR IMPERFECT TAKES ARE YOUR EXTRA LOTTO TICKETS!!!
+
+
 ----------------------------------------------------------------
 
     Title_Format[ YOUTUBE ]( No Leading Zeros @DFTNIP@ )
@@ -59,25 +64,25 @@
 
             : https://youtu.be/GUb6kkmqqxM 
 
-    AIM_006 : ( www.tinyurl.com/CAT-DEMON )     2022_07_29
-    
-            : Install GitBash
-
-            : https://youtu.be/M8b6kfZALaE 
-
-    AIM_007 : ( www.tinyurl.com/DEMON-DRAGON )  2022_07_30
+    AIM_006 : ( www.tinyurl.com/CAT-DEMON )           2022_07_29
+                                                      
+            : Install GitBash                         
+                                                      
+            : https://youtu.be/M8b6kfZALaE            
+                                                      
+    AIM_007 : ( www.tinyurl.com/DEMON-DRAGON )        2022_07_30
 
             : Install Heroku CLI
 
             : https://youtu.be/Yc2ZUcjBc_o 
 
-    AIM_008 : ( www.tinyurl.com/DRAGON-ENGINE ) 2022_07_31
+    AIM_008 : ( www.tinyurl.com/DRAGON-ENGINE )       2022_07_31
 
             : Verify Your Heroku And Git Bash
 
             : https://youtu.be/VT4HPe2fLt4 
 
-    AIM_009 : ( www.tinyurl.com/ENGINE-ELVES ) 2022_08_01
+    AIM_009 : ( www.tinyurl.com/ENGINE-ELVES )        2022_08_01
 
             : Create LOCAL Repo
         
@@ -133,18 +138,41 @@
             : Troubleshoot SSH Keys 
             : https://youtu.be/32nCWzAHCtw
 
-    AIM_015 : ( www.tinyurl.com/HEAVEN-HOG ) 2022_08_07
+    AIM_015 : ( www.tinyurl.com/HEAVEN-HOG )          2022_08_07
 
             : Empty Heroku Application
             : https://youtu.be/2XOQSV4k6h0 
 
-================================================================
-
-    AIM_016 : ( www.tinyurl.com/HOG-ION )
+    AIM_016 : ( www.tinyurl.com/BOMB-GAME-TUTORIAL)   2022_08_08
 
             : Hello Server
+            : https://youtu.be/Am2Ive77w6s
+
+    AIM_017 : Motivational Speech                     2022_08_09
+            : https://youtu.be/4ZYcrHMPl7s 
+
+    AIM_018 : Basic Routing Explained                 2022_08_10
+            : https://youtu.be/S53Sq3AkQSc 
+
+    AIM_019 : Prepare For Routing                     2022_08_11
+            : https://youtu.be/8MjyPexjhCw 
+
+    AIM_020 : VIP Auto Commit Script                  2022_08_12
+            : https://youtu.be/NAYAGqt-L3g 
 
 ================================================================
+
+    AIM_021 : SNAPSHOT REPOS                2022_08_12 : 1245 PM
+            : https://youtu.be/wZPoJ74IiSc
+                                           
+    AIM_022 : GIT_CLONE_TUTORIAL            2022_08_12 : 0145 PM
+            : https://youtu.be/nuTR91HXC4Y
+                                           
+    AIM_023 : HYPE TRAIN BREAK              2022_08_12 : 0245 PM
+            : https://youtu.be/XDYpgzdshy0
+
+================================================================
+
 
     AIM_017 : ( www.tinyurl.com/ )
 
@@ -198,3 +226,8 @@
     ############################################################
 
     @DFTNIP@ : Deviation_From_The_Norm_Is_Punished
+
+
+ＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶ 
+www.tinyurl.com/BOMB-GAME-TUTORIAL
+＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾
