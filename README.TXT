@@ -2,6 +2,24 @@
 
     YOUR IMPERFECT TAKES ARE YOUR EXTRA LOTTO TICKETS!!!
 
+----------------------------------------------------------------
+
+    001 : PLAYLIST_UNIQUE_ADVERTISEMENT_VIDEO
+    002 : https://www.youtube.com/watch?v=hwsRcixwCRI
+    003 : https://www.youtube.com/watch?v=1zVe_DlRhGs
+    004 : https://www.youtube.com/watch?v=3admjYLiOKc
+    005 : https://www.youtube.com/watch?v=GUb6kkmqqxM
+    006 : https://www.youtube.com/watch?v=M8b6kfZALaE
+    007 : https://www.youtube.com/watch?v=Yc2ZUcjBc_o
+    008 : https://www.youtube.com/watch?v=VT4HPe2fLt4
+    009 : https://www.youtube.com/watch?v=P1lwqH7SfNw
+    010 : https://www.youtube.com/watch?v=KTUdz_fYmKw
+    011 : https://youtu.be/_UdyaGV0o9k 
+    012 : https://youtu.be/qtwgID5EzQM 
+    013 : https://youtu.be/MUFZPoysKSw
+    014 : https://youtu.be/32nCWzAHCtw
+    015 : https://youtu.be/2XOQSV4k6h0
+
 
 ----------------------------------------------------------------
 
@@ -170,64 +188,185 @@
                                            
     AIM_023 : HYPE TRAIN BREAK              2022_08_12 : 0245 PM
             : https://youtu.be/XDYpgzdshy0
+            :
+            : All outtakes releasing on :   2022_08_25 : 0100 PM
+
+    AIM_024 : https://youtu.be/zGpL-sRkZms  2022_08_12 : 0345 PM
+    AIM_025 : https://youtu.be/8BqBd5yM8yk  2022_08_12 : 0445 PM
+    AIM_026 : https://youtu.be/LXRYtztee30  2022_08_12 : 0545 PM
+    AIM_027 : https://youtu.be/nJNASF1qgao  2022_08_12 : 0645 PM
+
+    DATE_NOW[ 2022_06_19 ]FIRST_VIDEO_TODAY[ AIM_028 ]
+
+    AIM_028 : youtu.be/n8uKGXQCS8Q        : 2022_08_13 : 0100 PM                                    
+    AIM_029 : youtu.be/-pg_aGkV2dk        : 2022_08_13 : 0200 PM
+    AIM_030 : youtu.be/HoQpdTyg4lc        : 2022_08_13 : 0300 PM
+    AIM_031 : youtu.be/W01Kn1YHgR4        : 2022_08_13 : 0400 PM
+    AIM_032 : youtu.be/nRMMO13umjM        : 2022_08_13 : 0500 PM
+
+    ------------------------------------------------------------
+
+    DATE_NOW[ 2022_06_20 ]FIRST_VIDEO_TODAY[ AIM_033 ]
+
+    AIM_033 : Get Open GL Context         : 2022_08_14 : 0100 PM
+    AIM_034 : Documentation Top Of File   : 2022_08_14 : 0200 PM
+    AIM_035 : Refactoring                 : 2022_08_14 : 0300 PM
+    AIM_036 : Simple Render Loop          : 2022_08_14 : 0400 PM
+    AIM_037 : Create Heroku Database      : 2022_08_14 : 0500 PM
+    AIM_038 : Delete Heroku Database      : 2022_08_14 : 0600 PM
+
+    DATE_NOW[ 2022_06_21 ]FIRST_VIDEO_TODAY[ AIM_039 ]
+    ( Odd Day Is Pushup Day , up at 5PM today            )
+    ( didn't get full rest because of phone alarm at 3PM )
+
+    AIM_039 : Adding "pg" to package.json       2022_08_15 : 1PM
+    AIM_040 : Connect To Postgres In Node.js    2022_08_15 : 2PM
+    AIM_041 : Node.js Create Table              2022_08_15 : 3PM
+
+    NOW_DATE[ 2022_06_22 ]FIRST_VIDEO_TODAY[ AIM_042 ]
+    
+    Decided we are releasing way too ahead of time so from
+    now on we are going to make next video release in the
+    next hour from current one. Do this until we are only
+    1-week ahead of ourselves.
+
+    AIM_042 : DABITCH WTF REFACTORING           2022_08_15 : 4PM
+    AIM_043 : URL SEGMENT ROUTING               2022_08_15 : 5PM
+    AIM_044 : DABITCH PROMISE                   2022_08_15 : 6PM
+    AIM_045 : DABITCH DROPPIN TABLES (NUKE)     2022_08_15 : 7PM
+    AIM_046 : CRUD ROUTING                      2022_08_15 : 8PM
+
+
+
+    ------------------------------------------------------------
+
+    AIM_047 : CREATE ( add entries to table )
+    AIM_048 : READ   ( print out table      )
+    AIM_049 : UPDATE ( change entry         )
+    AIM_050 : DELETE ( delete entry         )
+
+    ------------------------------------------------------------
+
+    AIM_### : Design  Schema For tab_shouts
+    AIM_### : Default Data For tab_shouts create table
+    AIM_### : [C]: Create Table If Not Exist In Node.js
+    AIM_### : [R]: API to list everything in table
+    AIM_### : [U]: Api to add entry into table.
+    AIM_### : [D]: Api to delete entry from table.
+    
+
+    AIM_### : API To Set The "Weather" 
+    AIM_### : Setup Socket 
+    AIM_### : Do something simple with that socket
+
+    AIM_### : Create Quad Data
+    AIM_### : Create Minimal Shader Code
+    AIM_### : Compile Shader
+    AIM_### : Run Shader
+    AIM_### : REFACTOR : "G_" and "g_" globals.
+    AIM_### : API_GET_THINGY( arg1,arg2,arg3 )
+            : www._.com/API_GET_THINGY/arg1,arg2,arg3
+            : API function exists on front & back ends!
+
+    If we start to exceed PRIME_TIME hours we move to 
+    11:45 of the next day.
+
+BOMB GAME TUTORIAL - PART __________________
+
+ＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶ 
+www.tinyurl.com/BOMB-GAME-TUTORIAL
+＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾
+https://github.com/KanjiCoder/AIM_0##
+https://github.com/KanjiCoder/AIM 
 
 ================================================================
 
 
-    AIM_017 : ( www.tinyurl.com/ )
+    AIM_XXX : ( www.tinyurl.com/ )
 
             : Hello HTM
 
-    AIM_018 : ( www.tinyurl.com/ )
+    AIM_XXX : ( www.tinyurl.com/ )
 
             : Hello J_S
 
-    AIM_019 : ( www.tinyurl.com/ )
+    AIM_XXX: ( www.tinyurl.com/ )
 
             : Hello Canvas
 
-    AIM_020 : xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    AIM_XXX : xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
             : XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ----------------------------------------------------------------
 
-    ############################################################
-                                                              
-    ##  1 . What We Will Accomplish     ##   AA : Allegro - ANDy  
-    ##                                  ##                   
-    ##  2 . Download Notepad++ 8.2.4    ##   AB : Allabaster - Bastard
-    ##  3 . Configure Notepad++ Colores ##   BB : Bomber - Brad 
-    ##                                  ##                     
-    ##  4 . Get Github Account          ##   BC                 
-    ##  5 . Get Heroku Account          ##   CC                 
-    ##                                  ##                      
-    ##  6 . Install GitBash             ##   CD                 
-    ##  7 . Install Heroku CLI          ##   DD                 
-    ##                                  ##                      
-    ##  8 . Create Your First Repo      ##   DE                 
-    ##  9 . Troubleshoot SSH Keys       ##   EE                 
-    ##                                  ##                      
-    ## 10 . Empty Heroku Application    ##   EF            
-    ##                                  ##                      
-    ## 11 . Hype Train Intermission     ##   FF  
-    ##                                  ##                    
-    ## 12 . Hello Server                ##   FG                
-    ## 13 . Hello HTM                   ##   GG               
-    ## 14 . Hello J_S                   ##   GH               
-    ## 15 . Hello Canvas                ##   HH               
-    ##                                                        
-    ## 16 . XXXXXXXXXXXXXXXXXXXXXXX     ##   HI 
-                                                              ##
-                                                              ##
-    ## ## . Hello JSON  application/json                      ##
-    ## ## . Hello PNG                                         ##
-                                                              ##
-    ############################################################
 
-    @DFTNIP@ : Deviation_From_The_Norm_Is_Punished
 
+//:KANJIVIDEO_URLS:==========================================://
+
+    K_C_039 : https://youtu.be/w3n-c0HiF_0      2022_08_15 : 1PM
+    K_C_040 : https://youtu.be/gEi_320ZV9M      2022_08_15 : 2PM
+    K_C_041 : https://youtu.be/itlpk684WlA      2022_08_15 : 3PM
+
+//:==========================================:KANJIVIDEO_URLS://
+//:WEEB_VIDEO_URLS:==========================================://
+
+    Release all at 11:45 PM so that the other more important
+    video version of the tutorial already exists.
+
+    W_C_001 : https://youtu.be/Qf1Fxse6qe0            2022_07_24
+
+    ....... ( stolen from kanji coder here ) .........
+ 
+    W_C_028 :  https://youtu.be/Xi9fZTD5y8E           2022_08_13
+    W_C_029 :  https://youtu.be/i8lquiBm0Dg           2022_08_13
+    W_C_030 :  https://youtu.be/hfatBCMffgE           2022_08_13
+    W_C_031 :  https://youtu.be/EU015RKqLoE           2022_08_13
+    W_C_032 :  https://youtu.be/AOa2_UT3mNE           2022_08_13
+
+    W_C_033 : https://youtu.be/2b6Ii4s-cpc            2022_08_14  
+    W_C_034 : https://youtu.be/pCFuGt98Zgs            2022_08_14  
+    W_C_035 : https://youtu.be/6aGCMm3Blak            2022_08_14
+    W_C_036 : https://youtu.be/RxeccTwL6cw            2022_08_14
+    W_C_037 : https://youtu.be/oZBWWnFAmoM            2022_08_14
+    W_C_038 : https://youtu.be/Mdmw93YIdGQ            2022_08_14
+
+    W_C_039 : https://youtu.be/pu8Q6_dCo8w            2022_08_15
+    W_C_040 : https://youtu.be/XUBwf6cecHg            2022_08_15
+    W_C_041 : https://youtu.be/KhBCxf88maU            2022_08_15
+
+//:==========================================:WEEB_VIDEO_URLS://
+//:NINJA_VIDEO_URLS:=========================================://
+
+    N_C_001 : https://youtu.be/KK2EsO0BM_M 
+
+    ....... ( stolen from kanji coder here ) .........
+
+
+    N_C_033 :  https://youtu.be/iqjLMXXXapo           2022_08_14
+    N_C_034 :  https://youtu.be/HEXecGVAIM4           2022_08_14
+    N_C_035 :  https://youtu.be/-HZV-_PmsYs           2022_08_14
+    N_C_036 :  https://youtu.be/RjviGeUoVO8           2022_08_14
+    N_C_037 :  https://youtu.be/_XgdZcGEfK4           2022_08_14
+    N_C_038 :  https://youtu.be/kt7E4xnbfxI           2022_08_14
+
+    N_C_039 :  https://youtu.be/D7vsPdxJVo8           2022_08_15
+    N_C_040 :  https://youtu.be/1Vub0CLHSzY           2022_08_15
+    N_C_041 :  https://youtu.be/jPkmSSKFXzk           2022_08_15
+
+    N_C_028 :  https://youtu.be/iE-BE3ilhzA           2022_08_13
+    N_C_029 :  https://youtu.be/LHHoPtJ7EJY           2022_08_13
+    N_C_030 :  https://youtu.be/dpLxPjc5dfI           2022_08_13
+    N_C_031 :  https://youtu.be/8WCitSmOiGg           2022_08_13
+    N_C_032 :  https://youtu.be/xWgKVGa5tYo           2022_08_13
+
+//:=========================================:NINJA_VIDEO_URLS://
+
+
+BOMB GAME TUTORIAL - PART __________________
 
 ＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶ 
 www.tinyurl.com/BOMB-GAME-TUTORIAL
 ＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾
+https://github.com/KanjiCoder/AIM_0##
+https://github.com/KanjiCoder/AIM
