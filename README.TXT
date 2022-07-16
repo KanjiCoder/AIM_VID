@@ -235,41 +235,77 @@
     AIM_044 : DABITCH PROMISE                   2022_08_15 : 6PM
     AIM_045 : DABITCH DROPPIN TABLES (NUKE)     2022_08_15 : 7PM
     AIM_046 : CRUD ROUTING                      2022_08_15 : 8PM
+    AIM_047 : Template String Helper Functions  2022_08_15 : 9PM
+    AIM_048 : SQL Create + Mistakes
+    AIM_049 : DABITCH/MAKETAB/TAB_HEX  << For Easier geting started
+    AIM_050 : JSON SQL RESPONSE
 
+    ## NOW_DATE[ 2022_06_22 ]FIRST_VIDEO_TODAY[ AIM_051 ]
 
+    AIM_051 : CREATE ( add entries to table )
+    AIM_052 : READ   ( print out table      )
+    AIM_053 : UPDATE ( change entry         )
+    AIM_054 : DELETE ( delete entry         )
+    AIM_055 : RUN_SQL is client side only now
+    AIM_056 : CREATE : DEBUGGING ( i_err.routine == errorMissingColumn )
+            : Add default values for unprovided parameters.
 
-    ------------------------------------------------------------
+    ## NOW_DATE[ 2022_06_26 ]FIRST_VIDEO_TODAY[ AIM_057 ] ######
 
-    AIM_047 : CREATE ( add entries to table )
-    AIM_048 : READ   ( print out table      )
-    AIM_049 : UPDATE ( change entry         )
-    AIM_050 : DELETE ( delete entry         )
+    AIM_057 : KEYMAST ( Key Master )
+    AIM_058 : E.T. Can't Phone Home
+    AIM_059 : Dyno WARNING
+    AIM_060 : Dyno COMMAND
+    AIM_061 : XMLHttpRequest Helper
+    AIM_062 : ARTDUDE & ARTGIRL
 
-    ------------------------------------------------------------
+    ## NOW_DATE[ 2022_06_27 ]FIRST_VIDEO_TODAY[ AIM_063 ] ######
 
-    AIM_### : Design  Schema For tab_shouts
-    AIM_### : Default Data For tab_shouts create table
-    AIM_### : [C]: Create Table If Not Exist In Node.js
-    AIM_### : [R]: API to list everything in table
-    AIM_### : [U]: Api to add entry into table.
-    AIM_### : [D]: Api to delete entry from table.
-    
+    AIM_063 : ARTGIRL THEFT
+    AIM_064 : Slated Rendering Pipelines
+    AIM_065 : Javascript Struct Keyword
+    AIM_066 : Javascript Const Array
+    AIM_067 : Shader Program Variables
 
-    AIM_### : API To Set The "Weather" 
-    AIM_### : Setup Socket 
-    AIM_### : Do something simple with that socket
+    ## NOW_DATE[ 2022_06_28 ]FIRST_VIDEO_TODAY[ AIM_068 ] ######
 
-    AIM_### : Create Quad Data
-    AIM_### : Create Minimal Shader Code
-    AIM_### : Compile Shader
-    AIM_### : Run Shader
-    AIM_### : REFACTOR : "G_" and "g_" globals.
-    AIM_### : API_GET_THINGY( arg1,arg2,arg3 )
-            : www._.com/API_GET_THINGY/arg1,arg2,arg3
-            : API function exists on front & back ends!
+    AIM_068 : WebGL Keyboard Shader Bindings
+    AIM_069 : WebGL Shader Strings Array
+    AIM_070 : c_ is for macros.
 
-    If we start to exceed PRIME_TIME hours we move to 
-    11:45 of the next day.
+    ## NOW_DATE[ 2022_06_30 : 7PM ]1ST_VID[ AIM_071 ] ##########
+
+    AIM_071 : Pipeline Factory : STUB
+    AIM_072 : Pipeline Factory : FUNC
+    AIM_073 : PipeLine Factory : ERRS
+    AIM_074 : Pipeline Factory : DATA
+
+    ## NOW_DATE[ 2022_07_02 :530AM ]1ST_VID[ AIM_075 ] #########
+
+    AIM_075 : Float Array Maker ARR_F32
+    AIM_076 : BYTE ARRAYS : Uint8 Array Maker ARR_U08
+    AIM_077 : VBO Setup ( VI0 ) 
+    AIM_078 : VAO Setup ( VI1 )
+    AIM_079 : Remember That Last Video ?
+
+    ## NOW_DATE[ 2022_07_07 : 1010AM ]1ST_VID[ AIM_080 ] #######
+
+    AIM_080 : WebGL . viewport
+    AIM_081 : Next Renderer ? ( lime )
+    AIM_082 : Render Swap
+    AIM_083 : Gradient Quad
+
+    ## NOW_DATE[ 2022_07_12 : 837PM ]1ST_VID[ AIM_084 ] ########
+
+    AIM_084 : Hype Train Hotel13
+
+    ## NOW_DATE [ 2022_07_13 ]1ST_VID[ AIM_085 ]################
+
+    AIM_085 : Setting up[ d_tik ]
+
+    ## NOW_DATE [ 2022_07_15 ]1ST_VID[ AIM_086 ]################
+
+    AIM_086 : Flashing Gradient Shader
 
 BOMB GAME TUTORIAL - PART __________________
 
@@ -278,95 +314,60 @@ www.tinyurl.com/BOMB-GAME-TUTORIAL
 ＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾
 https://github.com/KanjiCoder/AIM_0##
 https://github.com/KanjiCoder/AIM 
+ THIS_VIDEOS_PLAYLIST : www.tinyurl.com/BOMB-GAME-TUTORIAL
+ THIS_VIDEOS_____CODE : https://github.com/KanjiCoder/AIM_0##
 
-================================================================
+    ------------------------------------------------------------
 
+    If we start to exceed PRIME_TIME hours we move to 
+    11:45 of the next day.
 
-    AIM_XXX : ( www.tinyurl.com/ )
+    ------------------------------------------------------------
 
-            : Hello HTM
-
-    AIM_XXX : ( www.tinyurl.com/ )
-
-            : Hello J_S
-
-    AIM_XXX: ( www.tinyurl.com/ )
-
-            : Hello Canvas
-
-    AIM_XXX : xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-            : XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-----------------------------------------------------------------
-
-
-
-//:KANJIVIDEO_URLS:==========================================://
-
-    K_C_039 : https://youtu.be/w3n-c0HiF_0      2022_08_15 : 1PM
-    K_C_040 : https://youtu.be/gEi_320ZV9M      2022_08_15 : 2PM
-    K_C_041 : https://youtu.be/itlpk684WlA      2022_08_15 : 3PM
-
-//:==========================================:KANJIVIDEO_URLS://
 //:WEEB_VIDEO_URLS:==========================================://
 
-    Release all at 11:45 PM so that the other more important
-    video version of the tutorial already exists.
-
-    W_C_001 : https://youtu.be/Qf1Fxse6qe0            2022_07_24
-
-    ....... ( stolen from kanji coder here ) .........
- 
-    W_C_028 :  https://youtu.be/Xi9fZTD5y8E           2022_08_13
-    W_C_029 :  https://youtu.be/i8lquiBm0Dg           2022_08_13
-    W_C_030 :  https://youtu.be/hfatBCMffgE           2022_08_13
-    W_C_031 :  https://youtu.be/EU015RKqLoE           2022_08_13
-    W_C_032 :  https://youtu.be/AOa2_UT3mNE           2022_08_13
-
-    W_C_033 : https://youtu.be/2b6Ii4s-cpc            2022_08_14  
-    W_C_034 : https://youtu.be/pCFuGt98Zgs            2022_08_14  
-    W_C_035 : https://youtu.be/6aGCMm3Blak            2022_08_14
-    W_C_036 : https://youtu.be/RxeccTwL6cw            2022_08_14
-    W_C_037 : https://youtu.be/oZBWWnFAmoM            2022_08_14
-    W_C_038 : https://youtu.be/Mdmw93YIdGQ            2022_08_14
-
-    W_C_039 : https://youtu.be/pu8Q6_dCo8w            2022_08_15
-    W_C_040 : https://youtu.be/XUBwf6cecHg            2022_08_15
-    W_C_041 : https://youtu.be/KhBCxf88maU            2022_08_15
+    W_C_084 : https://youtu.be/eoeQmh_x-yc      2022_08_17 :10AM
+    W_C_085 : Setting up[ d_tik ]               2022_08_17 :11AM
+    W_C_086 : https://youtu.be/cLYHB5C-u2c      2022_08_18 :12AM
 
 //:==========================================:WEEB_VIDEO_URLS://
 //:NINJA_VIDEO_URLS:=========================================://
 
-    N_C_001 : https://youtu.be/KK2EsO0BM_M 
-
-    ....... ( stolen from kanji coder here ) .........
-
-
-    N_C_033 :  https://youtu.be/iqjLMXXXapo           2022_08_14
-    N_C_034 :  https://youtu.be/HEXecGVAIM4           2022_08_14
-    N_C_035 :  https://youtu.be/-HZV-_PmsYs           2022_08_14
-    N_C_036 :  https://youtu.be/RjviGeUoVO8           2022_08_14
-    N_C_037 :  https://youtu.be/_XgdZcGEfK4           2022_08_14
-    N_C_038 :  https://youtu.be/kt7E4xnbfxI           2022_08_14
-
-    N_C_039 :  https://youtu.be/D7vsPdxJVo8           2022_08_15
-    N_C_040 :  https://youtu.be/1Vub0CLHSzY           2022_08_15
-    N_C_041 :  https://youtu.be/jPkmSSKFXzk           2022_08_15
-
-    N_C_028 :  https://youtu.be/iE-BE3ilhzA           2022_08_13
-    N_C_029 :  https://youtu.be/LHHoPtJ7EJY           2022_08_13
-    N_C_030 :  https://youtu.be/dpLxPjc5dfI           2022_08_13
-    N_C_031 :  https://youtu.be/8WCitSmOiGg           2022_08_13
-    N_C_032 :  https://youtu.be/xWgKVGa5tYo           2022_08_13
+    N_C_084 : https://youtu.be/yFEml7mWSQE      2022_08_17 :10AM
+    N_C_085 : https://youtu.be/uS-gqBmub4o      2022_08_17 :11AM
+    N_C_086 : https://youtu.be/HwEg6FbF1FA      2022_08_18 :12AM
 
 //:=========================================:NINJA_VIDEO_URLS://
+//:KANJIVIDEO_URLS:==========================================://
+
+    K_C_084 : https://youtu.be/YStEHCjfAM4      2022_08_17 :10AM
+    K_C_085 : https://youtu.be/Zt3Oi6ysQdY      2022_08_17 :11AM
+    K_C_086 : https://youtu.be/qGmHDv4lXL8      2022_08_18 :12AM
+
+    BOMB GAME TUTORIAL - PART __________________
+
+//:==========================================:KANJIVIDEO_URLS://
 
 
-BOMB GAME TUTORIAL - PART __________________
-
-ＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶ 
 www.tinyurl.com/BOMB-GAME-TUTORIAL
 ＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾
 https://github.com/KanjiCoder/AIM_0##
 https://github.com/KanjiCoder/AIM
+
+bom , bom game , bomerman , bomerdude , bomberdude 
+,engin design, game engin , engin , gam , pwatformer
+,sid scrolla , sidscroller , sidescroler
+,engin dev , jascript , jawscript
+,jsscript , webbygl , nodebrojs , how do you do it 
+,learn to code it , expwosions
+,boom game, boom gam , kaboom , do it live ,
+,computer programming  , computer programing
+,bomb game , bomberman , game design , engine design 
+, game programming , web programming , platformer
+, side scroller, engine dev , web dev , JS , JavaScript
+, WebGL , Node.js , NodeJS 
+
+
+You tube is becommiing more corrupt because of lack of 
+transparency. But you don't say "here at youtube..."
+You say, "protect from harass"
