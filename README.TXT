@@ -1,299 +1,22 @@
-
+----------------------------------------------------------------
 
     YOUR IMPERFECT TAKES ARE YOUR EXTRA LOTTO TICKETS!!!
 
 ----------------------------------------------------------------
 
-    001 : PLAYLIST_UNIQUE_ADVERTISEMENT_VIDEO
-    002 : https://www.youtube.com/watch?v=hwsRcixwCRI
-    003 : https://www.youtube.com/watch?v=1zVe_DlRhGs
-    004 : https://www.youtube.com/watch?v=3admjYLiOKc
-    005 : https://www.youtube.com/watch?v=GUb6kkmqqxM
-    006 : https://www.youtube.com/watch?v=M8b6kfZALaE
-    007 : https://www.youtube.com/watch?v=Yc2ZUcjBc_o
-    008 : https://www.youtube.com/watch?v=VT4HPe2fLt4
-    009 : https://www.youtube.com/watch?v=P1lwqH7SfNw
-    010 : https://www.youtube.com/watch?v=KTUdz_fYmKw
-    011 : https://youtu.be/_UdyaGV0o9k 
-    012 : https://youtu.be/qtwgID5EzQM 
-    013 : https://youtu.be/MUFZPoysKSw
-    014 : https://youtu.be/32nCWzAHCtw
-    015 : https://youtu.be/2XOQSV4k6h0
-
-
-----------------------------------------------------------------
-
-    Title_Format[ YOUTUBE ]( No Leading Zeros @DFTNIP@ )
-
-        BOMB GAME TUTORIAL - PART __________________
-
-    Title_Format[  IMGUR  ]:
-
-        Atomic Ivy MMO - Resources - Tutorial #___
-
-
-
-    Old youtube format :
-    [   MMO From Scratch ( Atomic Ivy MMO ( AIM ) ) #___ ]
-
-----------------------------------------------------------------
-
     At What Time To Release Videos :
 
-        11:45 AM ( Before lunch in Michigan & Seattle )
+        1 PM  : First Video Of Day
+        2 PM  : 2nd   Video Of Day
+        3 PM  : 3rd   Video Of Day       
+        # PM  : ###   Video Of Day
+        11PM  : LAST  Video Of Day
+        11PM+ : Just keep on scheduling to the next hour
+              : and change the day as needed.
 
 ----------------------------------------------------------------
+:NOW_DATE_INDEX:TAIL:------------------------------------------:
 
-    Public Video Release Dates ( youtube ):
-
-    AIM_000 : ( www.tinyurl.com/ZERO-ZERO-ZERO )        RELEASED
-
-            : Because I need a non-empty video in playlist.
-
-            : https://youtu.be/2X2kM54vTc8
-
-    AIM_001 : ( www.tinyurl.com/ALLEGRO-ANDY )        2022_07_24
-    
-            : Sales pitch on what we will be accomplishing
-
-            : https://youtu.be/eVajR4TfFKA 
-
-    AIM_002 : ( www.tinyurl.com/ALLABASTER-BASTARD )  2022_07_25
-
-            : Downloading Notepad ++
-
-            : https://youtu.be/hwsRcixwCRI 
-
-    AIM_003 : ( www.tinyurl.com/BOMBER-BRAD )         2022_07_26
-
-            : Configuring Notepad ++
-
-            : https://youtu.be/1zVe_DlRhGs
-
-    AIM_004 : ( www.tinyurl.com/BOMB-CRATER )         2022_07_27
-
-            : Signing up for github.
-
-            : https://youtu.be/3admjYLiOKc 
-
-    AIM_005 : ( www.tinyurl.com/CRATER-CAT )          2022_07_28
-
-            : Signing up for heroku.
-
-            : https://youtu.be/GUb6kkmqqxM 
-
-    AIM_006 : ( www.tinyurl.com/CAT-DEMON )           2022_07_29
-                                                      
-            : Install GitBash                         
-                                                      
-            : https://youtu.be/M8b6kfZALaE            
-                                                      
-    AIM_007 : ( www.tinyurl.com/DEMON-DRAGON )        2022_07_30
-
-            : Install Heroku CLI
-
-            : https://youtu.be/Yc2ZUcjBc_o 
-
-    AIM_008 : ( www.tinyurl.com/DRAGON-ENGINE )       2022_07_31
-
-            : Verify Your Heroku And Git Bash
-
-            : https://youtu.be/VT4HPe2fLt4 
-
-    AIM_009 : ( www.tinyurl.com/ENGINE-ELVES )        2022_08_01
-
-            : Create LOCAL Repo
-        
-            : https://youtu.be/P1lwqH7SfNw 
-
-    AIM_010 : ( www.tinyurl.com/ELVES-FALLING )       2022_08_02
-
-            : Create GITHUB Repo
-
-            : https://youtu.be/KTUdz_fYmKw 
-
-    AIM_011 : ( www.tinyurl.com/FALLING-FIRE )        2022_08_03
-
-            : Upload File To Github ( TRY )
-
-            : https://youtu.be/_UdyaGV0o9k 
-            : https://imgur.com/UaHKO4y
-
-    AIM_012 : ( www.tinyurl.com/FIRE-GATE )           2022_08_04
-
-            : Add a collaberator to your github repo
-
-            : https://youtu.be/qtwgID5EzQM 
-            : https://imgur.com/ntJ9qXe
-
-//: - - - - - - - - - - - - - ---- - - - - - - - - - - - - - ://
-
-    AIM_013 : ( www.tinyurl.com/GATE-GRID )           2022_08_05
-
-            : SSH Keys Explained With Drugs
-
-            : https://youtu.be/MUFZPoysKSw 
-            : https://imgur.com/a/ntCG9YQ <<<< TODO : Add url to playlist
-
-    CMC_001 : ( Remake of AIM_013 As Advertisment For MMO )
-            : VIDEO     : https://youtu.be/rFcznUafyRA  
-            :           : https://youtu.be/0SDPnLTr83I 
-            :           : https://youtu.be/0SDPnLTr83I 
-
-            : TINYURL   :
-            : RELASE ON : 2022_07_24
-            : TIME      : 11:30 AM ( 15 min before others )
-
-            : Encryption Explained With Drug Trafficking
-
-            : PLAYLIST : 
-            : https://www.youtube.com/playlist?list=PL_0ywSR4_rsWjutTX6YKZmUrrT6DwZa01
-
-//: - - - - - - - - - - - - - ---- - - - - - - - - - - - - - ://
-
-    AIM_014 : ( www.tinyurl.com/GRID-HEAVEN )         2022_08_06
-
-            : Troubleshoot SSH Keys 
-            : https://youtu.be/32nCWzAHCtw
-
-    AIM_015 : ( www.tinyurl.com/HEAVEN-HOG )          2022_08_07
-
-            : Empty Heroku Application
-            : https://youtu.be/2XOQSV4k6h0 
-
-    AIM_016 : ( www.tinyurl.com/BOMB-GAME-TUTORIAL)   2022_08_08
-
-            : Hello Server
-            : https://youtu.be/Am2Ive77w6s
-
-    AIM_017 : Motivational Speech                     2022_08_09
-            : https://youtu.be/4ZYcrHMPl7s 
-
-    AIM_018 : Basic Routing Explained                 2022_08_10
-            : https://youtu.be/S53Sq3AkQSc 
-
-    AIM_019 : Prepare For Routing                     2022_08_11
-            : https://youtu.be/8MjyPexjhCw 
-
-    AIM_020 : VIP Auto Commit Script                  2022_08_12
-            : https://youtu.be/NAYAGqt-L3g 
-
-================================================================
-
-    AIM_021 : SNAPSHOT REPOS                2022_08_12 : 1245 PM
-            : https://youtu.be/wZPoJ74IiSc
-                                           
-    AIM_022 : GIT_CLONE_TUTORIAL            2022_08_12 : 0145 PM
-            : https://youtu.be/nuTR91HXC4Y
-                                           
-    AIM_023 : HYPE TRAIN BREAK              2022_08_12 : 0245 PM
-            : https://youtu.be/XDYpgzdshy0
-            :
-            : All outtakes releasing on :   2022_08_25 : 0100 PM
-
-    AIM_024 : https://youtu.be/zGpL-sRkZms  2022_08_12 : 0345 PM
-    AIM_025 : https://youtu.be/8BqBd5yM8yk  2022_08_12 : 0445 PM
-    AIM_026 : https://youtu.be/LXRYtztee30  2022_08_12 : 0545 PM
-    AIM_027 : https://youtu.be/nJNASF1qgao  2022_08_12 : 0645 PM
-
-    DATE_NOW[ 2022_06_19 ]FIRST_VIDEO_TODAY[ AIM_028 ]
-
-    AIM_028 : youtu.be/n8uKGXQCS8Q        : 2022_08_13 : 0100 PM                                    
-    AIM_029 : youtu.be/-pg_aGkV2dk        : 2022_08_13 : 0200 PM
-    AIM_030 : youtu.be/HoQpdTyg4lc        : 2022_08_13 : 0300 PM
-    AIM_031 : youtu.be/W01Kn1YHgR4        : 2022_08_13 : 0400 PM
-    AIM_032 : youtu.be/nRMMO13umjM        : 2022_08_13 : 0500 PM
-
-    ------------------------------------------------------------
-
-    DATE_NOW[ 2022_06_20 ]FIRST_VIDEO_TODAY[ AIM_033 ]
-
-    AIM_033 : Get Open GL Context         : 2022_08_14 : 0100 PM
-    AIM_034 : Documentation Top Of File   : 2022_08_14 : 0200 PM
-    AIM_035 : Refactoring                 : 2022_08_14 : 0300 PM
-    AIM_036 : Simple Render Loop          : 2022_08_14 : 0400 PM
-    AIM_037 : Create Heroku Database      : 2022_08_14 : 0500 PM
-    AIM_038 : Delete Heroku Database      : 2022_08_14 : 0600 PM
-
-    DATE_NOW[ 2022_06_21 ]FIRST_VIDEO_TODAY[ AIM_039 ]
-    ( Odd Day Is Pushup Day , up at 5PM today            )
-    ( didn't get full rest because of phone alarm at 3PM )
-
-    AIM_039 : Adding "pg" to package.json       2022_08_15 : 1PM
-    AIM_040 : Connect To Postgres In Node.js    2022_08_15 : 2PM
-    AIM_041 : Node.js Create Table              2022_08_15 : 3PM
-
-    NOW_DATE[ 2022_06_22 ]FIRST_VIDEO_TODAY[ AIM_042 ]
-    
-    Decided we are releasing way too ahead of time so from
-    now on we are going to make next video release in the
-    next hour from current one. Do this until we are only
-    1-week ahead of ourselves.
-
-    AIM_042 : DABITCH WTF REFACTORING           2022_08_15 : 4PM
-    AIM_043 : URL SEGMENT ROUTING               2022_08_15 : 5PM
-    AIM_044 : DABITCH PROMISE                   2022_08_15 : 6PM
-    AIM_045 : DABITCH DROPPIN TABLES (NUKE)     2022_08_15 : 7PM
-    AIM_046 : CRUD ROUTING                      2022_08_15 : 8PM
-    AIM_047 : Template String Helper Functions  2022_08_15 : 9PM
-    AIM_048 : SQL Create + Mistakes
-    AIM_049 : DABITCH/MAKETAB/TAB_HEX  << For Easier geting started
-    AIM_050 : JSON SQL RESPONSE
-
-    ## NOW_DATE[ 2022_06_22 ]FIRST_VIDEO_TODAY[ AIM_051 ]
-
-    AIM_051 : CREATE ( add entries to table )
-    AIM_052 : READ   ( print out table      )
-    AIM_053 : UPDATE ( change entry         )
-    AIM_054 : DELETE ( delete entry         )
-    AIM_055 : RUN_SQL is client side only now
-    AIM_056 : CREATE : DEBUGGING ( i_err.routine == errorMissingColumn )
-            : Add default values for unprovided parameters.
-
-    ## NOW_DATE[ 2022_06_26 ]FIRST_VIDEO_TODAY[ AIM_057 ] ######
-
-    AIM_057 : KEYMAST ( Key Master )
-    AIM_058 : E.T. Can't Phone Home
-    AIM_059 : Dyno WARNING
-    AIM_060 : Dyno COMMAND
-    AIM_061 : XMLHttpRequest Helper
-    AIM_062 : ARTDUDE & ARTGIRL
-
-    ## NOW_DATE[ 2022_06_27 ]FIRST_VIDEO_TODAY[ AIM_063 ] ######
-
-    AIM_063 : ARTGIRL THEFT
-    AIM_064 : Slated Rendering Pipelines
-    AIM_065 : Javascript Struct Keyword
-    AIM_066 : Javascript Const Array
-    AIM_067 : Shader Program Variables
-
-    ## NOW_DATE[ 2022_06_28 ]FIRST_VIDEO_TODAY[ AIM_068 ] ######
-
-    AIM_068 : WebGL Keyboard Shader Bindings
-    AIM_069 : WebGL Shader Strings Array
-    AIM_070 : c_ is for macros.
-
-    ## NOW_DATE[ 2022_06_30 : 7PM ]1ST_VID[ AIM_071 ] ##########
-
-    AIM_071 : Pipeline Factory : STUB
-    AIM_072 : Pipeline Factory : FUNC
-    AIM_073 : PipeLine Factory : ERRS
-    AIM_074 : Pipeline Factory : DATA
-
-    ## NOW_DATE[ 2022_07_02 :530AM ]1ST_VID[ AIM_075 ] #########
-
-    AIM_075 : Float Array Maker ARR_F32
-    AIM_076 : BYTE ARRAYS : Uint8 Array Maker ARR_U08
-    AIM_077 : VBO Setup ( VI0 ) 
-    AIM_078 : VAO Setup ( VI1 )
-    AIM_079 : Remember That Last Video ?
-
-    ## NOW_DATE[ 2022_07_07 : 1010AM ]1ST_VID[ AIM_080 ] #######
-
-    AIM_080 : WebGL . viewport
-    AIM_081 : Next Renderer ? ( lime )
-    AIM_082 : Render Swap
-    AIM_083 : Gradient Quad
 
     ## NOW_DATE[ 2022_07_12 : 837PM ]1ST_VID[ AIM_084 ] ########
 
@@ -307,6 +30,45 @@
 
     AIM_086 : Flashing Gradient Shader
 
+    ## NOW_DATE [ 2022_07_16 ]1ST_VID[ AIM_087 ]################
+
+    AIM_087 : Empty Space     Dimensions
+            : The   Shape Of Empty Space
+            : Void  Shape Discrete Units
+
+    ## NOW_DATE [ 2022_07_24 ]1ST_VID[ AIM_088 ]################
+
+    AIM_088 : Camera Rectangles
+    AIM_089 : Camera Uniforms - Part - 001
+    AIM_090 : Camera Uniforms - Part - 002
+    AIM_091 : Camera Uniforms - Part - 003
+    AIM_092 : Camera Uniforms - Part - 004
+    AIM_093 : Camera Uniforms - Part - 005
+
+    ## NOW_DATE[ 2022_07_26 ]1ST_VID[ AIM_094 ]#################
+
+    AIM_094 : Camera Mapping Math - Part - 001
+    AIM_095 : Camera Mapping Math - Part - 002
+    AIM_096 : Camera Mapping Math - Part - 003
+    AIM_097 : Camera Mapping Math - Part - 004 ( Using VP1 )
+
+    ## NOW_DATE[ 2022_07_27 ]1ST_VID[ AIM_098 ]#################
+
+    AIM_098 : Gaze Into The Void - Part - 001 
+
+    ## NOW_DATE[ 2022_08_02 ]1ST_VID[ AIM_099 ]#################
+
+    AIM_099 : [ Visualizing / Gaze Into ] The Void - Part - 002 
+    AIM_100 : NEXT PLAYLIST 
+    AIM_101 : Summary Placeholder
+    AIM_102 : [ Visualizing / Gaze Into ] The Void - Part - 003 
+    AIM_103 : [ Visualizing / Gaze Into ] The Void - Part - 004
+
+
+          
+
+:------------------------------------------:NOW_DATE_INDEX:TAIL:
+
 BOMB GAME TUTORIAL - PART __________________
 
 ＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶＶ 
@@ -314,8 +76,8 @@ www.tinyurl.com/BOMB-GAME-TUTORIAL
 ＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾＾
 https://github.com/KanjiCoder/AIM_0##
 https://github.com/KanjiCoder/AIM 
- THIS_VIDEOS_PLAYLIST : www.tinyurl.com/BOMB-GAME-TUTORIAL
- THIS_VIDEOS_____CODE : https://github.com/KanjiCoder/AIM_0##
+THIS_VIDEOS_PLAYLIST : www.tinyurl.com/BOMB-GAME-TUTORIAL
+THIS_VIDEOS_____CODE : https://github.com/KanjiCoder/AIM_0##
 
     ------------------------------------------------------------
 
@@ -329,6 +91,20 @@ https://github.com/KanjiCoder/AIM
     W_C_084 : https://youtu.be/eoeQmh_x-yc      2022_08_17 :10AM
     W_C_085 : Setting up[ d_tik ]               2022_08_17 :11AM
     W_C_086 : https://youtu.be/cLYHB5C-u2c      2022_08_18 :12AM
+    W_C_087 : https://youtu.be/ZPKxK553YhU      2022_08_18 : 1AM
+    W_C_088 : https://youtu.be/MwdFzmlPU1c      2022_08_19 : 1PM
+    W_C_089 : https://youtu.be/klei2fXVDyE      2022_08_20 : 1PM
+    W_C_090 : https://youtu.be/dGd9tYejJ-M      2022_08_21 : 1PM
+    W_C_091 : https://youtu.be/r8CydJ1wcdg      2022_08_22 : 1PM
+    W_C_092 : https://youtu.be/Vx71WkHs36o      2022_08_23 : 1PM
+    W_C_093 : https://youtu.be/gdAHw6ig8Lw      2022_08_24 : 1PM
+
+    W_C_094 : https://youtu.be/uVaLpB2vV6A      2022_08_25 : 1PM
+    W_C_095 : https://youtu.be/mnM1DSjgtXM      2022_08_25 : 2PM
+    W_C_096 : https://youtu.be/j8unX9Pqfe8      2022_08_26 : 1PM
+    W_C_097 : https://youtu.be/qtCUyScOzOI      2022_08_26 : 2PM
+
+    W_C_098 : https://youtu.be/QH6WTR43F9g      2022_08_27 : 1PM
 
 //:==========================================:WEEB_VIDEO_URLS://
 //:NINJA_VIDEO_URLS:=========================================://
@@ -336,6 +112,20 @@ https://github.com/KanjiCoder/AIM
     N_C_084 : https://youtu.be/yFEml7mWSQE      2022_08_17 :10AM
     N_C_085 : https://youtu.be/uS-gqBmub4o      2022_08_17 :11AM
     N_C_086 : https://youtu.be/HwEg6FbF1FA      2022_08_18 :12AM
+    N_C_087 : ____________________________      2022_08_18 : 1AM
+    N_C_088 : https://youtu.be/D-e7TOLHmeU      2022_08_19 : 1PM
+    N_C_089 : https://youtu.be/k-Riewq_i14      2022_08_20 : 1PM
+    N_C_090 : https://youtu.be/C1RbpNB1dIs      2022_08_21 : 1PM
+    N_C_091 : https://youtu.be/dvOEHAcuSRw      2022_08_22 : 1PM
+    N_C_092 : https://youtu.be/0JE4IaJS2Xg      2022_08_23 : 1PM
+    N_C_093 : https://youtu.be/IMHJmOvSYIA      2022_08_24 : 1PM
+
+    N_C_094 : https://youtu.be/-RvIwDEdj1Q      2022_08_25 : 1PM
+    N_C_095 : https://youtu.be/N4tqnkA_Wik      2022_08_25 : 2PM
+    N_C_096 : https://youtu.be/7Wq1XG4mhkc      2022_08_26 : 1PM
+    N_C_097 : https://youtu.be/oIRFwiYJPVk      2022_08_26 : 2PM
+
+    N_C_098 : https://youtu.be/5m-SY40t4ME      2022_08_27 : 1PM
 
 //:=========================================:NINJA_VIDEO_URLS://
 //:KANJIVIDEO_URLS:==========================================://
@@ -343,6 +133,20 @@ https://github.com/KanjiCoder/AIM
     K_C_084 : https://youtu.be/YStEHCjfAM4      2022_08_17 :10AM
     K_C_085 : https://youtu.be/Zt3Oi6ysQdY      2022_08_17 :11AM
     K_C_086 : https://youtu.be/qGmHDv4lXL8      2022_08_18 :12AM
+    K_C_087 : https://youtu.be/xFc_pdEJZTI      2022_08_18 : 1AM
+    K_C_088 : https://youtu.be/Kr5GK2YaRpw      2022_08_19 : 1PM
+    K_C_089 : https://youtu.be/zzWVBKznb1o      2022_08_20 : 1PM
+    K_C_090 : https://youtu.be/jSnnX_bcK5g      2022_08_21 : 1PM
+    K_C_091 : https://youtu.be/Pd-DOcpT6wk      2022_08_22 : 1PM
+    K_C_092 : https://youtu.be/nWuRy-QHKnc      2022_08_23 : 1PM
+    K_C_093 : https://youtu.be/3wGtuxotVWw      2022_08_24 : 1PM
+
+    K_C_094 : https://youtu.be/FCGoXMaoCyQ      2022_08_25 : 1PM
+    K_C_095 : https://youtu.be/fnleC1Jpo9w      2022_08_25 : 2PM
+    K_C_096 : ------------------------------    2022_08_26 : 1PM
+    K_C_097 : https://youtu.be/91wopJ13UnE      2022_08_26 : 2PM
+
+    K_C_098 :  https://youtu.be/ZGLgXN1er2Q     2022_08_27 : 1PM
 
     BOMB GAME TUTORIAL - PART __________________
 
