@@ -173,16 +173,17 @@
     AIM_177 : Render Tiles - P3                      OCT_05  3PM
     AIM_178 : Render Tiles - P4                      OCT_06  3PM
 
-    AIM_179 : Render Tiles - P5
-    AIM_180 : Konami C     - P1
-    AIM_181 : Konami C     - P2
-    AIM_182 : Konami C     - P3
-    AIM_183 : PIX2048 MemSet  
-    AIM_184 : PIX2048 Ticker
-    AIM_185 : Pix2048 B4 ArtGirl
-    AIM_186 : Konami C     - P4  
-    AIM_187 : Konamic Window - P1
-    AIM_188 : Konamic Window - P2
+    AIM_179 : Render Tiles - P5                      OCT_07  3PM
+    AIM_180 : Konami C - P1                          OCT_08  3PM
+    AIM_181 : Konami C - P2                          OCT_09  3PM
+    AIM_182 : Konami C - P3                          OCT_10  3PM
+    AIM_183 : PIX2048 MemSet                         OCT_11  3PM
+    AIM_184 : PIX2048 Ticker                         OCT_12  3PM
+    AIM_185 : Pix2048 B4 ArtGirl                     OCT_13  3PM
+    AIM_186 : Konami C - P4                          OCT_14  3PM
+    AIM_187 : Konamic Window - P1                    OCT_15  3PM
+    AIM_188 : Konamic Window - P2                    OCT_16  3PM
+
     AIM_189 : Void Room Render - P1  (Don't Use Void Data )
     AIM_190 : Void Room Render - P2  (red+blue grids on black)
     AIM_191 : Render Tile Inset  - P1 ( Lookup Tables )
@@ -266,14 +267,72 @@
     AIM_263 : Auto Tiling Shader - P13   
     AIM_264 : Auto Tiling Shader - P14   
     AIM_265 : Auto Tiling Shader - P15   
- 
-                                       
-    TEMP_DAYSTART_MARKER_2022_09_14
-
     AIM_266 : A.T.S. - P16 : Tile Color Tables
     AIM_267 : A.T.S. - P17 : Rendering Tile Colors
     AIM_268 : A.T.S. - P18 : Tile Brush Controls
     AIM_269 : A.T.S. - P19 : Fourset Remix Tables
+    AIM_270 : A.T.S. - P20 : Grab 5x5 Graphic
+
+    TEMP_DAYSTART_MARKER_2022_09_16
+
+    AIM_271 : A.T.S. - P21 : D20 Lookup Table
+    AIM_272 : A.T.S. - P22 : Select u_5x5's Bit
+    AIM_273 : A.T.S. - P23 : D10 _NOT_ D20
+    AIM_274 : A.T.S. - P24 : Remix Table BugFix
+    AIM_275 : A.T.S. - P25 : Scary Refactor
+
+    AIM_276 : A.T.S. - P26 : Ring Mapped Tiles
+    AIM_277 : A.T.S. - P27 : R.M.T. - P2
+    AIM_278 : A.T.S. - P28 : R.M.T. - P3
+    AIM_279 : A.T.S. - P29 : Seizure Warning
+    AIM_280 : A.T.S. - P30 : Inner Drop Shadow
+
+    AIM_281 : Simpler Auto Tile Shader - PART 1
+    AIM_282 : Simpler Auto Tile Shader - PART 2
+    AIM_283 : Simpler Auto Tile Shader - PART 3 
+    AIM_284 : Simpler Auto Tile S***** - PART 4   
+    AIM_285 : Simpler Auto T*** S***** - PART 5 
+    AIM_286 : Simpler A*** T*** S***** - PART 6 
+    AIM_287 : S****** A*** T*** S***** - PART 7 
+    AIM_288 : S****** A*** T*** S.     - PART 8
+    
+    AIM_289 : S****** A*** T. S. - PART 9 
+    AIM_290 : S****** A. T. S. - PART 10  
+    AIM_291 : S. A. T. S. - PART 11     
+    AIM_292 : S.A.T.S. - PART 12   
+    AIM_293 : SATS - PART 13  
+    AIM_294 : SATS - P14  
+    AIM_295 : SATS - P15 
+    AIM_296 : SATS - P16   
+    AIM_297 : SATS - P17    
+    AIM_298 : SATS - P18  
+    AIM_299 : SATS - P19 
+ 
+    AIM_300 : NEXT_PLAYLIST 
+
+    AIM_301 : SATS - P20 
+    AIM_302 : SATS - P21
+    AIM_303 : SATS - P22 
+    AIM_304 : SATS - P23  
+    AIM_305 : SATS - P24  < < < HERE
+
+    
+    AIM_306 : SATS - P25  SEE[ 306._ ]
+    AIM_307 : SATS - P26  SEE[ 307._ ]
+ 
+
+    SATS PART 3 NEXT_1X : TODO005                                 
+    SATS PART 4 NEXT_2X : Draw Optimized Empty Tile Space Grid    
+    SATS PART 5 NEXT_3X : Active Tile Highlight. USE_ATH          
+    SATS PART 6 NEXT_4X : Brush Value Symbol.    USE_BVS     
+
+    : NEXT_1X : TODO005                                    // [282]
+    : NEXT_2X : Draw Optimized Empty Tile Space Grid       // [282]
+    : NEXT_3X : Active Tile Highlight. USE_ATH             // [282]
+    : NEXT_4X : Brush Value Symbol.    USE_BVS             // [282]     
+
+
+
 
 
     Video #2_6_6 : Finish lookup tables          // [264]
@@ -281,8 +340,8 @@
     Video #2_6_8 : Render Fourset Graphic        // [264]
                  : for geometry tiles.           // [264]
     
-
-
+    
+    s16 ===> f16 TODODOFSJ LFJDSLFJLSJDFL REFACTOR
  
 
     TODO: Minimalistic Grid That Changes Coarseness depending
