@@ -184,141 +184,281 @@
     AIM_187 : Konamic Window - P1                    OCT_15  3PM
     AIM_188 : Konamic Window - P2                    OCT_16  3PM
 
-    AIM_189 : Void Room Render - P1  (Don't Use Void Data )
-    AIM_190 : Void Room Render - P2  (red+blue grids on black)
-    AIM_191 : Render Tile Inset  - P1 ( Lookup Tables )
-    AIM_192 : Render Tile Inset  - P2 ( OOB_INSET_DEL )
-    AIM_193 : Render Tile Inset  - P3 ( 1/7 or 1/3 Config Macro )
-    AIM_194 : Render Layer Colors - P1 ( lookup tables )
-    AIM_195 : Render Layer Colors - P2 ( hackish composite )
-    AIM_196 : Render Layer Colors - P3 ( GLSL Code     )
-    AIM_197 : Put Tile BugFix - P1 <<< LETS FIND THAT BUG!
-    AIM_198 : Put Tile Bugfix - P2 : Better Alpha Composite
-    AIM_199 : Put Tile Bugfix - P3 : Fill Sectors Konami Code
-    AIM_200 : SEE NEXT PLAYLIST VIDEO <-----------------
-    AIM_201 : PLAYLIST PREVIEW VIDEO
-    AIM_202 : Put Tile BugFix - P4 : Dum Fill Funcs
-    AIM_203 : Put Tile BugFix - P5 : Numpad Detection
-    AIM_204 : Put Tile BugFix - P6
-    AIM_205 : [ Numpad Detect Util Func ] NOTICE_ME_SENPAI function refactor
-    AIM_206 : UPNG Cut+Paste
-    AIM_207 : Binfont Constants
-    AIM_208 : Binfont LUT
-    AIM_209 : BinFont Glyph Stamp - P1
-    AIM_210 : BinFont Glyph Stamp - P2
-    AIM_211 : BinFont Glyph Stamp - P3
-    AIM_212 : BinFont Glyph Stamp - P4
-    AIM_213 : BinFont Glyph Stamp - P5
-    AIM_214 : Next Power Of 2  ( F_NEX_PO2 )
-    AIM_215 : String To Ascii  ( F_STR_ASC )
-    AIM_216 : BinFont Glyph Stamp - P6 (picking it back up)
-    AIM_217 : NEVERNO
-    AIM_218 : Startup Modes    ///// STARTUP_MOD  
-    AIM_219 : KeyEmma  
-    AIM_220 : KeyEmma Funcs
-    AIM_221 : Tutorial Startup Mode
-    AIM_222 : Is Mouse Down ?
-    AIM_223 : Tile Strokes ( Hold+Drag to set multiple tiles. )
-    AIM_224 : Optimized Tile Setting - P1 
-    AIM_225 : Optimized Tile Setting - P2
+    AIM_189 : Void Room Render - P1                  OCT_17  3PM
+    AIM_190 : Void Room Render - P2                  OCT_18  3PM
+    AIM_191 : Render Tile Inset  - P1                OCT_19  3PM
+    AIM_192 : Render Tile Inset  - P2                OCT_20  3PM
+    AIM_193 : Render Tile Inset  - P3                OCT_21  3PM
+    AIM_194 : Render Layer Colors - P1               OCT_22  3PM
+    AIM_195 : Render Layer Colors - P2               OCT_23  3PM
+    AIM_196 : Render Layer Colors - P3               OCT_24  3PM
+    AIM_197 : Put Tile BugFix - P1                   OCT_25  3PM
+    AIM_198 : Put Tile Bugfix - P2 :                 OCT_26  3PM
 
-    AIM_226 : REFACTOR : GPUDATA & GPUSYNC - P1
-    AIM_227 : REFACTOR : GPUDATA & GPUSYNC - P2
-    AIM_228 : REFACTOR : GPUDATA & GPUSYNC - P3
-    AIM_229 : REFACTOR : GPUDATA & GPUSYNC - P4
-    AIM_230 : REFACTOR : GPUDATA & GPUSYNC - P5
+    AIM_199 : Put Tile Bugfix - P3 :                 OCT_27  3PM
+    AIM_200 : SEE NEXT PLAYLIST VIDEO                OCT_28  3PM
+
+    AIM_201 : PLAYLIST PREVIEW VIDEO                 OCT_29  3PM
+    AIM_202 : Put Tile BugFix - P4                   OCT_30  3PM
+    AIM_203 : Put Tile BugFix - P5                   OCT_31  3PM
+    AIM_204 : Put Tile BugFix - P6                   NOV_01  3PM
+    AIM_205 : Numpad Detect Util Func                NOV_02  3PM
+    AIM_206 : UPNG Cut+Paste                         NOV_03  3PM
+    AIM_207 : Binfont Constants                      NOV_04  3PM
+    AIM_208 : Binfont LUT                            NOV_05  3PM
+    AIM_209 : BinFont Glyph Stamp - P1               NOV_06  3PM
+    AIM_210 : BinFont Glyph Stamp - P2               NOV_07  3PM
+
+
+    AIM_211 : BinFont Glyph Stamp - P3               NOV_08  3PM
+    AIM_212 : BinFont Glyph Stamp - P4               NOV_09  3PM
+    AIM_213 : BinFont Glyph Stamp - P5               NOV_10  3PM
+    AIM_214 : Next Power Of 2  ( F_NEX_PO2 )         NOV_11  3PM
+    AIM_215 : String To Ascii  ( F_STR_ASC )         NOV_12  3PM
+    AIM_216 : BinFont Glyph Stamp - P6               NOV_13  3PM
+    AIM_217 : NEVERNO                                NOV_14  3PM
+    AIM_218 : Startup Modes                          NOV_15  3PM
+    AIM_219 : KeyEmma                                NOV_16  3PM
+    AIM_220 : KeyEmma Funcs                          NOV_17  3PM
+
+    AIM_221 : Tutorial Startup Mode                  NOV_18  3PM
+    AIM_222 : Is Mouse Down ?                        NOV_19  3PM
+    AIM_223 : Tile Strokes                           NOV_20  3PM
+    AIM_224 : Optimized Tile Setting - P1            NOV_21  3PM
+    AIM_225 : Optimized Tile Setting - P2            NOV_22  3PM
+    AIM_226 : REFACTOR : GPUDATA & GPUSYNC - P1      NOV_23  3PM
+    AIM_227 : REFACTOR : GPUDATA & GPUSYNC - P2      NOV_24  3PM
+    AIM_228 : REFACTOR : GPUDATA & GPUSYNC - P3      NOV_25  3PM
+    AIM_229 : REFACTOR : GPUDATA & GPUSYNC - P4      NOV_26  3PM
+    AIM_230 : REFACTOR : GPUDATA & GPUSYNC - P5      NOV_27  3PM
     
-    AIM_231 : Quick Fix Alert
-    AIM_232 : Optimized Tile Setting - P3 
-    AIM_233 : Optimized Tile Setting - P4  ( hotel cells  ) 
-    AIM_234 : Optimized Tile Setting - P5  ( e_e   cells  )
-    AIM_235 : Optimized Tile Setting - P6  ( texture push )
+    AIM_231 : Quick Fix Alert                        NOV_28  3PM
+    AIM_232 : Optimized Tile Setting - P3            NOV_29  3PM
+    AIM_233 : Optimized Tile Setting - P4            NOV_30  3PM
+    AIM_234 : Optimized Tile Setting - P5            DEC_01  3PM
+    AIM_235 : Optimized Tile Setting - P6            DEC_02  3PM
+    AIM_236 : Optimized Tile Setting - P7            DEC_03  3PM
+    AIM_237 : Optimized Tile Setting - BUGHUNT       DEC_04  3PM
+    AIM_238 : ARTDUDE Gets Assets                    DEC_05  3PM
+    AIM_239 : FOURSET Stub                           DEC_06  3PM
+    AIM_240 : ARTDUDE INI                            DEC_07  3PM
 
-    AIM_236 : Optimized Tile Setting - P7  ( loose ends )
-    AIM_237 : Optimized Tile Setting - BUGHUNT
-    AIM_238 : ARTDUDE Gets Assets
-    AIM_239 : FOURSET Stub
-    AIM_240 : ARTDUDE INI
+    AIM_241 : ( UDESIGN,F16 )TO( BINFOUR )           DEC_08  3PM
+    AIM_242 : ArtDude UnitTest - P1                  DEC_09  3PM
+    AIM_243 : ArtDude UnitTest - P2                  DEC_10  3PM
+    AIM_244 : ArtDude UnitTest - P3                  DEC_11  3PM
+    AIM_245 : ArtDude UnitTest - P4                  DEC_12  3PM
+    AIM_246 : ArtDude UnitTest - P5                  DEC_13  3PM
+    AIM_247 : Uint32 Data Corruption ? - P1          DEC_14  3PM
+    AIM_248 : Am I The Idiot ? ( Yes )               DEC_15  3PM
+    AIM_249 : ArtGirl Pre-Processing                 DEC_16  3PM
+    AIM_250 : Meta-Coding GLSL Array                 DEC_17  3PM
 
-    AIM_241 : ( UDESIGN,F16 )==>( BINFOUR )
-    AIM_242 : ArtDude UnitTest - P1
-    AIM_243 : ArtDude UnitTest - P2  
-    AIM_244 : ArtDude UnitTest - P3  
-    AIM_245 : ArtDude UnitTest - P4  
+    AIM_251 : Auto Tiling Shader - P1                DEC_18  3PM
+    AIM_252 : Auto Tiling Shader - P2                DEC_19  3PM
+    AIM_253 : Auto Tiling Shader - P3                DEC_20  3PM
+    AIM_254 : Auto Tiling Shader - P4                DEC_21  3PM
+    AIM_255 : Auto Tiling Shader - P5                DEC_22  3PM
+    AIM_256 : Auto Tiling Shader - P6                DEC_23  3PM
+    AIM_257 : Auto Tiling Shader - P7                DEC_24  3PM
+    AIM_258 : Auto Tiling Shader - P8                DEC_25  3PM
+    AIM_259 : Auto Tiling Shader - P9                DEC_26  3PM
+    AIM_260 : Auto Tiling Shader - P10               DEC_27  3PM
 
-    AIM_246 : ArtDude UnitTest - P5  
-    AIM_247 : Uint32 Data Corruption ? - P1  
-    AIM_248 : Am I The Idiot ? ( Yes ) 
-    AIM_249 : ArtGirl Pre-Processing
-    AIM_250 : Meta-Coding GLSL Array 
+    AIM_261 : Auto Tiling Shader - P11               DEC_28  3PM
+    AIM_262 : Auto Tiling Shader - P12               DEC_29  3PM
+    AIM_263 : Auto Tiling Shader - P13               DEC_30  3PM
+    AIM_264 : Auto Tiling Shader - P14               DEC_31  3PM
+    AIM_265 : Auto Tiling Shader - P15               JAN_01  3PM
+    AIM_266 : A.T.S. - P16 : Tile Color Tables       JAN_02  3PM
+    AIM_267 : A.T.S. - P17 : Rendering Tile Colors   JAN_03  3PM
+    AIM_268 : A.T.S. - P18 : Tile Brush Controls     JAN_04  3PM
+    AIM_269 : A.T.S. - P19 : Fourset Remix Tables    JAN_05  3PM
+    AIM_270 : A.T.S. - P20 : Grab 5x5 Graphic        JAN_06  3PM
 
-    AIM_251 : Auto Tiling Shader - P1
-    AIM_252 : Auto Tiling Shader - P2
-    AIM_253 : Auto Tiling Shader - P3
-    AIM_254 : Auto Tiling Shader - P4
-    AIM_255 : Auto Tiling Shader - P5
-    AIM_256 : Auto Tiling Shader - P6
-    AIM_257 : Auto Tiling Shader - P7
-    AIM_258 : Auto Tiling Shader - P8
-    AIM_259 : Auto Tiling Shader - P9
-    AIM_260 : Auto Tiling Shader - P10
-    AIM_261 : Auto Tiling Shader - P11
-    AIM_262 : Auto Tiling Shader - P12   
-    AIM_263 : Auto Tiling Shader - P13   
-    AIM_264 : Auto Tiling Shader - P14   
-    AIM_265 : Auto Tiling Shader - P15   
-    AIM_266 : A.T.S. - P16 : Tile Color Tables
-    AIM_267 : A.T.S. - P17 : Rendering Tile Colors
-    AIM_268 : A.T.S. - P18 : Tile Brush Controls
-    AIM_269 : A.T.S. - P19 : Fourset Remix Tables
-    AIM_270 : A.T.S. - P20 : Grab 5x5 Graphic
 
-    TEMP_DAYSTART_MARKER_2022_09_16
+    AIM_271 : A.T.S. - P21 : D20 Lookup Table        JAN_07  3PM
+    AIM_272 : A.T.S. - P22 : Select u_5x5's Bit      JAN_08  3PM
+    AIM_273 : A.T.S. - P23 : D10 _NOT_ D20           JAN_09  3PM
+    AIM_274 : A.T.S. - P24 : Remix Table BugFix      JAN_10  3PM
+    AIM_275 : A.T.S. - P25 : Scary Refactor          JAN_11  3PM
+    AIM_276 : A.T.S. - P26 : Ring Mapped Tiles       JAN_12  3PM
+    AIM_277 : A.T.S. - P27 : R.M.T. - P2             JAN_13  3PM
+    AIM_278 : A.T.S. - P28 : R.M.T. - P3             JAN_14  3PM
+    AIM_279 : A.T.S. - P29 : Seizure Warning         JAN_15  3PM
+    AIM_280 : A.T.S. - P30 : Inner Drop Shadow       JAN_16  3PM
 
-    AIM_271 : A.T.S. - P21 : D20 Lookup Table
-    AIM_272 : A.T.S. - P22 : Select u_5x5's Bit
-    AIM_273 : A.T.S. - P23 : D10 _NOT_ D20
-    AIM_274 : A.T.S. - P24 : Remix Table BugFix
-    AIM_275 : A.T.S. - P25 : Scary Refactor
+    AIM_281 : Simpler Auto Tile Shader - PART 1      JAN_17  3PM
+    AIM_282 : Simpler Auto Tile Shader - PART 2      JAN_18  3PM
+    AIM_283 : Simpler Auto Tile Shader - PART 3      JAN_19  3PM
+    AIM_284 : Simpler Auto Tile S***** - PART 4      JAN_20  3PM
+    AIM_285 : Simpler Auto T*** S***** - PART 5      JAN_21  3PM
+    AIM_286 : Simpler A*** T*** S***** - PART 6      JAN_22  3PM
+    AIM_287 : S****** A*** T*** S***** - PART 7      JAN_23  3PM
+    AIM_288 : S****** A*** T*** S.     - PART 8      JAN_24  3PM
+    AIM_289 : S****** A*** T. S. - PART 9            JAN_25  3PM
+    AIM_290 : S****** A. T. S. - PART 10             JAN_26  3PM
 
-    AIM_276 : A.T.S. - P26 : Ring Mapped Tiles
-    AIM_277 : A.T.S. - P27 : R.M.T. - P2
-    AIM_278 : A.T.S. - P28 : R.M.T. - P3
-    AIM_279 : A.T.S. - P29 : Seizure Warning
-    AIM_280 : A.T.S. - P30 : Inner Drop Shadow
+    AIM_291 : S. A. T. S. - PART 11 :::::::::::::::: JAN_27
+    AIM_292 : S.A.T.S. - PART 12    :::::::::::::::: JAN_28
+    AIM_293 : SATS - PART 13        :::::::::::::::: JAN_29
+    AIM_294 : SATS - P14            :::::::::::::::: JAN_30
+    AIM_295 : SATS - P15            :::::::::::::::: JAN_31
+    AIM_296 : SATS - P16            :::::::::::::::: FEB_01
+    AIM_297 : SATS - P17            :::::::::::::::: FEB_02
+    AIM_298 : SATS - P18            :::::::::::::::: FEB_03
+    AIM_299 : SATS - P19            :::::::::::::::: FEB_04
+    AIM_300 : NEXT_PLAYLIST         :::::::::::::::: FEB_05
 
-    AIM_281 : Simpler Auto Tile Shader - PART 1
-    AIM_282 : Simpler Auto Tile Shader - PART 2
-    AIM_283 : Simpler Auto Tile Shader - PART 3 
-    AIM_284 : Simpler Auto Tile S***** - PART 4   
-    AIM_285 : Simpler Auto T*** S***** - PART 5 
-    AIM_286 : Simpler A*** T*** S***** - PART 6 
-    AIM_287 : S****** A*** T*** S***** - PART 7 
-    AIM_288 : S****** A*** T*** S.     - PART 8
+
+    AIM_301 : SATS - P20     ::::::::::::::::::::::: FEB_06
+    AIM_302 : SATS - P21                             FEB_07
+    AIM_303 : SATS - P22     ::::::::::::::::::::::: FEB_08
+    AIM_304 : SATS - P23                             FEB_09
+    AIM_305 : SATS - P24     ::::::::::::::::::::::: FEB_10
+
+                             
+                             
+    AIM_306 : SATS - P25    :::::::::::::::::::::::: FEB_11
+    AIM_307 : SATS - P26    :::::::::::::::::::::::: FEB_12
+    AIM_308 : SATS - P27    :::::::::::::::::::::::: FEB_13
+    AIM_309 : SATS - P28    :::::::::::::::::::::::: FEB_14
+    AIM_310 : SATS - P29    :::::::::::::::::::::::: FEB_15
+    AIM_311 : SATS - P30    :::::::::::::::::::::::: FEB_16
+    AIM_312 : SATS - P31    :::::::::::::::::::::::: FEB_17
+    AIM_313 : SATS - P32    :::::::::::::::::::::::: FEB_18
+    AIM_314 : SATS - P33    :::::::::::::::::::::::: FEB_19
+    AIM_315 : SATS - P34    :::::::::::::::::::::::: FEB_20
+
+    AIM_316 : SATS - P35    :::::::::::::::::::::::: FEB_21
+    AIM_317 : SATS - P36    :::::::::::::::::::::::: FEB_22
+    AIM_318 : SATS - P37    :::::::::::::::::::::::: FEB_23
+    AIM_319 : SATS - P38    :::::::::::::::::::::::: FEB_24
+    AIM_320 : SATS - P39    :::::::::::::::::::::::: FEB_25
+    AIM_321 : SATS - P40    :::::::::::::::::::::::: FEB_26
+    AIM_322 : SATS - P41    :::::::::::::::::::::::: FEB_27
+    AIM_323 : SATS - P42    :::::::::::::::::::::::: FEB_28
+    AIM_324 : SATS - P43    :::::::::::::::::::::::: MAR_01
+    AIM_325 : SATS - P44    :::::::::::::::::::::::: MAR_02
+
+    AIM_326 : SATS - P45    :::::::::::::::::::::::: MAR_03
+    AIM_327 : SATS - P46    :::::::::::::::::::::::: MAR_04
+    AIM_328 : SATS - P47    :::::::::::::::::::::::: MAR_05
+    AIM_329 : SATS - P48    :::::::::::::::::::::::: MAR_06
+    AIM_330 : SATS - P49    :::::::::::::::::::::::: MAR_07
+    AIM_331 : SATS - P50    :::::::::::::::::::::::: MAR_08
+    AIM_332 : SATS - P51    :::::::::::::::::::::::: MAR_09
+    AIM_333 : SATS - P52    :::::::::::::::::::::::: MAR_10
+    AIM_334 : SATS - P53    :::::::::::::::::::::::: MAR_11
+
+
+
+    AIM_335 : SATS - P54
+    AIM_336 : SATS - P55
+    AIM_337 : SATS - P56
+    AIM_338 : SATS - P57
+    AIM_339 : SATS - P58
+    AIM_340 : SATS - P59
+    AIM_341 : SATS - P60
+    AIM_342 : SATS - P61
+    AIM_343 : SATS - P62
+    AIM_344 : SATS - P63
+    AIM_345 : SATS - P64
+
+    AIM_346 : Heroku To Google App Engine #1
+    AIM_347 : Heroku To Google App Engine #2
+    AIM_348 : Heroku To Google App Engine #3
+    AIM_349 : Heroku To Google App Engine #4
+    AIM_350 : Heroku To Google App Engine #5
+    AIM_351 : Heroku To Google App Engine #6
+    AIM_352 : Heroku To Google App Engine #7
+    AIM_353 : Heroku To Google App Engine #8
+    AIM_354 : Heroku To Google App Engine #9 
+    AIM_355 : Heroku To Google App Engine #10   
+    AIM_356 : Heroku To Google App Engine #11  
+    AIM_357 : Heroku To Google App Engine #12  
+    AIM_358 : Heroku To Google App Engine #13  
+    AIM_359 : Heroku To Google App Engine #14  
+
+    AIM_360 : HOWORLD #0
     
-    AIM_289 : S****** A*** T. S. - PART 9 
-    AIM_290 : S****** A. T. S. - PART 10  
-    AIM_291 : S. A. T. S. - PART 11     
-    AIM_292 : S.A.T.S. - PART 12   
-    AIM_293 : SATS - PART 13  
-    AIM_294 : SATS - P14  
-    AIM_295 : SATS - P15 
-    AIM_296 : SATS - P16   
-    AIM_297 : SATS - P17    
-    AIM_298 : SATS - P18  
-    AIM_299 : SATS - P19 
- 
-    AIM_300 : NEXT_PLAYLIST 
+    AIM_361 : FILEMOB #1
+    AIM_362 : FILEMOB #2
+    AIM_363 : FILEMOB #3
+    AIM_364 : FILEMOB #4
+    AIM_365 : FILEMOB #5
+    AIM_366 : FILEMOB #6
 
-    AIM_301 : SATS - P20 
-    AIM_302 : SATS - P21
-    AIM_303 : SATS - P22 
-    AIM_304 : SATS - P23  
-    AIM_305 : SATS - P24  < < < HERE
+    AIM_367 : FILEMOB #7
+    AIM_368 : FILEMOB #8
+    AIM_369 : FILEMOB #9
+    AIM_370 : FILEMOB #10
 
+    AIM_371 : FILEMOB #11
+    AIM_372 : FILEMOB #12
+    AIM_373 : FILEMOB #13
+    AIM_374 : FILEMOB #14
+    AIM_375 : FILEMOB #15
+    AIM_376 : FILEMOB #16
+    AIM_377 : FILEMOB #17
+    AIM_378 : FILEMOB #18
+    AIM_379 : FILEMOB #19
+    AIM_380 : FILEMOB #20
+
+    AIM_381 : FILEMOB #21
+    AIM_382 : FILEMOB #22
+    AIM_383 : FILEMOB #23
+    AIM_384 : FILEMOB #24
+    AIM_385 : FILEMOB #25
+    AIM_386 : FILEMOB #26
+    AIM_387 : FILEMOB #27
+    AIM_388 : FILEMOB #28
+    AIM_389 : FILEMOB #29
+    AIM_390 : FILEMOB #30
+
+    AIM_391 : FILEMOB #31
+    AIM_392 : FILEMOB #32
+    AIM_393 : FILEMOB #33
+    AIM_394 : FILEMOB #34
+    AIM_395 : FILEMOB #35
+    AIM_396 : FILEMOB #36
+    AIM_397 : FILEMOB #37
+    AIM_398 : FILEMOB #38
+    AIM_399 : FILEMOB #39
+    AIM_400 : NEXT PLAYLIST
+     
+    AIM_401 : PLACE_HOLDER_PREVIEW
+
+    AIM_402 : HARDTEX - P1 ( hard texture upload #1 )
+    AIM_403 : HARDTEX - P2 ( hard texture upload #2 )
+    AIM_404 : HARDTEX - P3 ( hard texture upload #3 )
+    AIM_405 : HARDTEX - P4 ( hard texture upload #4 )
+    AIM_406 : HARDTEX - P5 ( hard texture upload #5 )
+    AIM_407 : HARDTEX - P6 ( hard texture upload #6 )
+    AIM_408 : HARDTEX - P7 ( hard texture upload #7 )
+    AIM_409 : HARDTEX - P8 ( hard texture upload #8 )
+
+    AIM_410 : HARDTEX - P9  ( hard texture upload #9  )
+    AIM_411 : HARDTEX - P10 ( hard texture upload #10 )
+    AIM_412 : HARDTEX - P11 ( hard texture upload #11 )
+    AIM_413 : HARDTEX - P12 ( hard texture upload #12 )
+    AIM_414 : HARDTEX - P13 ( hard texture upload #13 )
+    AIM_415 : HARDTEX - P14 ( hard texture upload #14 )
+    AIM_416 : HARDTEX - P15 ( hard texture upload #15 )
+    AIM_417 : HARDTEX - P16 ( hard texture upload #16 )
+    AIM_418 : Zero Tile Eraser Fix
+    AIM_419 : Konami_Zero_Bug
+    AIM_420 : Acid Dental Zoom Fix
+
+    AIM_421 : MIRMAID (Mirror Maid) PART #01 
+    AIM_422 : MIRMAID (Mirror Maid) PART #02 
+    AIM_423 : MIRMAID (Mirror Maid) PART #03 
+    AIM_424 : MIRMAID (Mirror Maid) PART #04 
     
-    AIM_306 : SATS - P25  SEE[ 306._ ]
-    AIM_307 : SATS - P26  SEE[ 307._ ]
+
+    ITS A DISASTER DOWN THERE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+        TEMP_DAYSTART_MARKER_2022_09_16
  
 
     SATS PART 3 NEXT_1X : TODO005                                 
