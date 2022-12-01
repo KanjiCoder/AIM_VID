@@ -1,3 +1,10 @@
+
+STOP USING THIS FILE.... It is getting really confusing
+with all these "README" files. Our process is starting
+to hit "HOMEOSTASIS" and I no longer wish to maintain
+and index of all of the video urls. Just not
+worth the work right now.
+
 README.2.TXT : Used to speed up working in README.TXT
 
 //:WEEB_VIDEO_URLS:==========================================://
